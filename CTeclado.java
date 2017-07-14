@@ -1,5 +1,3 @@
-package cteclado;
-
 //********************************************************************
 //  CTeclado.java       Author: Lewis and Loftus
 //
